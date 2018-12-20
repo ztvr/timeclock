@@ -1,2 +1,3 @@
 # timeclock
-System Tray Timeclock Tracker for Windows
+
+This Python project aims to create a lightweight Windows system tray app that easily helps one track their working hours.
